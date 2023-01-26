@@ -1,0 +1,16 @@
+[
+  {
+    "id": "123245",
+    "title": "Account 1",
+    "imageUrl": "https://www.bni.co.id/Portals/1/BNI/Personal/Kartu%20Debit/Images/Mastercard-Silver.jpg",
+    "description": "",
+    "price": "200000"
+  },
+  {
+    "id": "0.41607315815753076",
+    "title": "Account 2",
+    "imageUrl": "https://www.bni.co.id/portals/1/BNI/Personal/Kartu%20Debit/Images/bni-card-gpn02-small.png",
+    "description": "",
+    "price": "300000"
+  }
+]
